@@ -1,4 +1,4 @@
-<strong><h1>About</h1>It is a 4-d-linked list- CONSOLE BASE Nodepad 
+<strong><h1>About</h1>It is a 4-D-linked list- CONSOLE BASE Advanced Nodepad 
 <h2>Descriptoin</h2>
 I have impemented data structres like linked list, stack and Trie
 <Br>
